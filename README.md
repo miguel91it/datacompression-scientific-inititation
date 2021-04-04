@@ -17,7 +17,7 @@ Estudar os conceitos de determinados algoritmos de compressão de dados, impleme
 * Codificação Huffman
 * Bzip2
 * LZMA
-* JPEG
+* **JPEG (Este foi o mais difícil e mais divertido, vale ver o código fonte)**
 
 ### Resultado da Pesquisa
 
